@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FitTrackMobile</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_slogan">Tu plataforma definitiva para el entrenamiento de fuerza y seguimiento de fitness.</string>
+    <string name="btn_iniciar_sesion">Iniciar Sesión</string>
+    <string name="btn_crear_cuenta">Crear Cuenta</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">¡Bienvenido de nuevo!</string>
+    <string name="login_subtitle">Ingresa tus credenciales para acceder a tus rutinas y progreso.</string>
+    <string name="hint_email">Correo Electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="olvidaste_password">¿Olvidaste tu contraseña?</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta? </string>
+    <string name="registrate_aqui">Regístrate</string>
+    <string name="error_email_requerido">Ingresa un correo electrónico válido</string>
+    <string name="error_password_requerida">Ingresa tu contraseña (mínimo 6 caracteres)</string>
+
+    <!-- Registro Screen -->
+    <string name="registro_title">Crear Cuenta</string>
+    <string name="registro_subtitle">Únete a FitTrackMobile y comienza a registrar tu fuerza.</string>
+    <string name="hint_nombre">Nombre Completo</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="btn_registrarse">Registrarse</string>
+    <string name="ya_tienes_cuenta">¿Ya tienes cuenta? </string>
+    <string name="inicia_sesion_aqui">Inicia sesión</string>
+    <string name="error_nombre_requerido">El nombre completo es obligatorio</string>
+    <string name="error_passwords_no_coinciden">Las contraseñas no coinciden</string>
+
+    <!-- Recuperar Password Screen -->
+    <string name="recuperar_title">Recuperar Contraseña</string>
+    <string name="recuperar_subtitle">Ingresa tu correo electrónico registrado y te enviaremos las instrucciones para restablecer tu contraseña.</string>
+    <string name="btn_enviar_instrucciones">Enviar Instrucciones</string>
+    <string name="volver_login">Volver al inicio de sesión</string>
+    <string name="instrucciones_enviadas">Se han enviado las instrucciones de recuperación a tu correo.</string>
+</resources>

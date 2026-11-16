@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_fitness">#FF1E88E5</color>
+    <color name="primary_dark_fitness">#FF1565C0</color>
+    <color name="accent_fitness">#FFFF6D00</color>
+    <color name="background_light">#FFF8F9FA</color>
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF757575</color>
+</resources>
