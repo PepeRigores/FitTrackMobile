@@ -2,10 +2,18 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="primary_fitness">#FF1E88E5</color>
-    <color name="primary_dark_fitness">#FF1565C0</color>
-    <color name="accent_fitness">#FFFF6D00</color>
-    <color name="background_light">#FFF8F9FA</color>
-    <color name="text_primary">#FF212121</color>
-    <color name="text_secondary">#FF757575</color>
+
+    <!-- FitTrack Modern Dark Theme Palette -->
+    <color name="bg_dark">#FF0F172A</color> <!-- Deep Slate 900 -->
+    <color name="surface_dark">#FF1E293B</color> <!-- Slate 800 -->
+    <color name="surface_border">#FF334155</color> <!-- Slate 700 -->
+
+    <color name="primary_electric">#FF3B82F6</color> <!-- Electric Blue -->
+    <color name="primary_dark_electric">#FF1D4ED8</color>
+    <color name="accent_orange">#FFFF6B00</color> <!-- Energy Orange -->
+    <color name="accent_cyan">#FF06B6D4</color>
+
+    <color name="text_light_primary">#FFF8FAFC</color> <!-- White / Slate 50 -->
+    <color name="text_light_secondary">#FF94A3B8</color> <!-- Slate 400 -->
+    <color name="text_muted">#FF64748B</color> <!-- Slate 500 -->
 </resources>

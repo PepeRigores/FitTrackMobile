@@ -6,6 +6,10 @@
     <string name="btn_iniciar_sesion">Iniciar Sesión</string>
     <string name="btn_crear_cuenta">Crear Cuenta</string>
 
+    <!-- Shared Auth -->
+    <string name="btn_continuar_google">Continuar con Google</string>
+    <string name="divider_or">O CONTINÚA CON</string>
+
     <!-- Login Screen -->
     <string name="login_title">¡Bienvenido de nuevo!</string>
     <string name="login_subtitle">Ingresa tus credenciales para acceder a tus rutinas y progreso.</string>

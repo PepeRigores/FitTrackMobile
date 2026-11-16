@@ -35,8 +35,16 @@ class LoginFragment : Fragment() {
                     "Sesión iniciada con éxito para $email",
                     Toast.LENGTH_SHORT
                 ).show()
-                // Aquí se procesaría el inicio de sesión real
             }
+        }
+
+        binding.btnGoogleSignIn.setOnClickListener {
+            Toast.makeText(
+                requireContext(),
+                "Iniciando autenticación con Google...",
+                Toast.LENGTH_SHORT
+            ).show()
+            // Aquí se conecta con Credential Manager / Firebase Google Sign-In
         }
 
         binding.tvRecuperarPassword.setOnClickListener {

@@ -39,6 +39,15 @@ class RegistroFragment : Fragment() {
             }
         }
 
+        binding.btnGoogleSignUp.setOnClickListener {
+            Toast.makeText(
+                requireContext(),
+                "Iniciando registro con Google...",
+                Toast.LENGTH_SHORT
+            ).show()
+            // Aquí se conecta con Credential Manager / Firebase Google Sign-In
+        }
+
         binding.tvIrALogin.setOnClickListener {
             findNavController().navigate(R.id.action_registroFragment_to_loginFragment)
         }
