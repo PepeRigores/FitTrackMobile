@@ -2,7 +2,7 @@
     <string name="app_name">FitTrackMobile</string>
 
     <!-- Splash Screen -->
-    <string name="splash_slogan">Tu plataforma definitiva para el entrenamiento de fuerza y seguimiento de fitness.</string>
+    <string name="splash_slogan">Registra tu progreso con Fitness Tracker</string>
     <string name="btn_iniciar_sesion">Iniciar Sesión</string>
     <string name="btn_crear_cuenta">Crear Cuenta</string>
 
@@ -23,7 +23,7 @@
 
     <!-- Registro Screen -->
     <string name="registro_title">Crear Cuenta</string>
-    <string name="registro_subtitle">Únete a FitTrackMobile y comienza a registrar tu fuerza.</string>
+    <string name="registro_subtitle">Únete a Fitness Tracker y comienza a registrar tu fuerza.</string>
     <string name="hint_nombre">Nombre Completo</string>
     <string name="hint_confirm_password">Confirmar Contraseña</string>
     <string name="btn_registrarse">Registrarse</string>

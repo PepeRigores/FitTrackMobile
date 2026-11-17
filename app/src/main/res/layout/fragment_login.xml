@@ -13,28 +13,17 @@
         android:layout_height="wrap_content"
         android:padding="24dp">
 
-        <ImageView
-            android:id="@+id/ivLoginLogo"
-            android:layout_width="80dp"
-            android:layout_height="80dp"
-            android:contentDescription="@string/app_name"
-            android:src="@drawable/ic_fitness_logo"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
-
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/tvLoginTitle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
             android:text="@string/login_title"
             android:textColor="@color/text_light_primary"
             android:textSize="28sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/ivLoginLogo" />
+            tools:layout_editor_absoluteY="120dp" />
 
         <com.google.android.material.textview.MaterialTextView
             android:id="@+id/tvLoginSubtitle"
